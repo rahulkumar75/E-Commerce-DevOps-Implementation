@@ -62,6 +62,7 @@ kubectl apply -f argo-app.yaml
 ```
 
 ## 📈 Impact
+
 ✅ **99.99% uptime** with automated deployments and scaling.
 ✅ **Reduced manual effort** with Infrastructure as Code.
 ✅ **Faster releases** via CI/CD pipelines.
